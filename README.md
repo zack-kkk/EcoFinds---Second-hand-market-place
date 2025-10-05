@@ -33,7 +33,8 @@ It promotes sustainable consumption by enabling users to **buy and sell pre-owne
 ---
 
 ##  Project Structure
-EcoFinds/
+EcoFinds
+
 └── ecofinds-backend/ # Express + MongoDB API
 
 └── ecofinds-frontend/ # React + Tailwind UI
